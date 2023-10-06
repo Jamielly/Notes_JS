@@ -1,1 +1,1 @@
-# Repositorio_
+Anotação principais referentes à lógica de prrogramação em JavaScript
