@@ -1,5 +1,5 @@
 
-//Coerção Implicita
+//Coerção Implicita:
 
 //de num para string
 var num1 = 42

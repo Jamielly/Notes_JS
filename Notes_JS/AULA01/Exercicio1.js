@@ -1,4 +1,4 @@
-//https://github.com/evercan/aula-1091 - Github do professor
+//https://github.com/evercan/aula-1091 - Github do professor!
 //1) Crie uma variável chamada "numero1" e atribua a ela um valor numérico. Em seguida, crie uma variável chamada "numero2" e atribua a ela outro valor numérico. Realize a soma desses dois números e exiba o resultado no console.
 let num1 = 10
 let num2 = 20

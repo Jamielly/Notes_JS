@@ -1,4 +1,4 @@
-//var (escopo global) - escopo fora do bloco
+//var (escopo global) - escopo fora do bloco.
 var num1 = 10
 var num2 = 20
 
