@@ -1,1 +1,2 @@
-Anotação principais referentes à lógica de prrogramação em JavaScript
+Anotação principais referentes à lógica de programação em JavaScript
+- Boot
