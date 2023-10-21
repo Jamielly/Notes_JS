@@ -1,6 +1,6 @@
-// estrutura de controle utilizado para criar loops
-// while e do ... while
-
+/* estrutura de controle utilizado para criar loops
+ while e do ... while
+*/
 //while(condicao){
     // Codigo a ser executado enquanto a condição for verdadeira
 //}

@@ -1,7 +1,7 @@
-// Truthy - são tratados como verdadeiros quando avaliados em um contexto
-//          booleano
-// Falsy  - são tratados como falsos.
-
+/* Truthy - são tratados como verdadeiros quando avaliados em um contexto
+          booleano
+ Falsy  - são tratados como falsos.
+*/
 // Valores não vazios em geral são verdadeiros
 
 if ("Olá Mundo"){

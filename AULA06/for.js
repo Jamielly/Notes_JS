@@ -5,10 +5,12 @@ for (inicialização;condição; incremento){
     // Codigo a ser repetido
 }
 */
-// Utilizar quando precisar do indice
-// laços numericos tradicionais, como indices de arrays.
-// Permite controle preciso sobre o inicio, condição e incremento da iteração
-// Adequado para loops com um numero fixo de iterações.
+/* Utilizar quando precisar do indice
+ laços numericos tradicionais, como indices de arrays.
+ Permite controle preciso sobre o inicio, condição e incremento da iteração
+ Adequado para loops com um numero fixo de iterações.
+*/
+
 for(let i =0; i <5; i++){
     //   console.log(i);
    }

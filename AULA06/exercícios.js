@@ -72,12 +72,12 @@ for (let i = 2; i <=20; i +=2){
    //  console.log(output || i);
    }
  
- // 5) Crie um array de objetos, onde cada objeto representa um aluno com 
- // propriedades como nome e notas (um array de notas). 
- // Use um laço for...of para iterar sobre o array de alunos e, para cada aluno,
- // use um laço for para calcular a média de suas notas. 
- // Exiba o nome do aluno e sua média no console.
- 
+ /* 5) Crie um array de objetos, onde cada objeto representa um aluno com 
+  propriedades como nome e notas (um array de notas). 
+  Use um laço for...of para iterar sobre o array de alunos e, para cada aluno,
+  use um laço for para calcular a média de suas notas. 
+  Exiba o nome do aluno e sua média no console.
+ */
  let alunos = [
    { nome: "Vilar", notas: [70, 80, 60, 90] },
    { nome: "Protti", notas: [60, 80, 20, 100] },

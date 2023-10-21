@@ -28,4 +28,4 @@ Não haverá a persistência das tarefas em banco de dados. Para isso, podem uti
 
 ## Equipes
 
-Grupo 5 - Murilo, Matheus, Rubens, Jamielly Reis, Ailezig
+// Grupo 5 - Murilo, Matheus, Rubens, Jamielly Reis, Ailezig
