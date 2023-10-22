@@ -26,4 +26,4 @@ Dentre as funcionalidades, espera-se que seja possível:
 
 Não haverá a persistência das tarefas em banco de dados. Para isso, podem utilizar um array para armazenar a lista das tarefas cadastradas.
 
-Jamielly Reis
+Jamielly Reis - Grupo 5
