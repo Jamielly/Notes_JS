@@ -72,8 +72,8 @@ function adicionarTarefa() {
 
     // Atualiza a interface do usuário
     const lista = document.getElementById("lista-de-tarefas");
-    const li = document.createElement("li");
-    li.innerHTML = `${tarefa.titulo} - ${tarefa.descricao} <button onclick="removerTarefa(${tarefa.id})">Remover</button>`;
+    const listinha = document.createElement("li");
+    listinha.innerHTML = `${tarefa.titulo} - ${tarefa.descricao} <button onclick="removerTarefa(${tarefa.id})">Remover</button>`;
     lista.appendChild(li);
 
     // Limpa os campos de entrada p/ poder escrever novamente
