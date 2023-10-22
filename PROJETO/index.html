@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>To Do List da Jami's</title>
+</head>
+<body>
+    <h1>📝 To Do List 📎</h1>
+
+    <div class="tarefas">
+        <input type="text" id="titulo" placeholder="Título da tarefa">
+        <input type="text" id="descricao" placeholder="Descrição da tarefa">
+        <button onclick="adicionarTarefa()">Adicionar</button>
+        <button onclick="listaCompleta()">Visualizar lista</button>
+    </div>
+
+    <ul id="lista-de-tarefas">
+        <!-- As tarefas serão listadas aqui -->
+    </ul>
+
+    <script src="lista.js"></script>
+</body>
+</html>
