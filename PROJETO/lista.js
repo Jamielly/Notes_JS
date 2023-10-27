@@ -72,7 +72,7 @@ function adicionarTarefa() {
 
     // Atualiza a interface do usuário - puxando do HTML
     const lista = document.getElementById("lista-de-tarefas");
-    const listinha = document.createElement("li");
+    const listinha = document.createElement("listinha");
     listinha.innerHTML = `${tarefa.titulo} - ${tarefa.descricao} <button onclick="removerTarefa(${tarefa.id})">Remover</button>`; //puxando do HTML
     lista.appendChild(listinha); // adiciona como 'filho', o tal da estrutura DOM.
     //DOM é uma estrutura de árvore como elemento de nós 'filhos' de outros nós que são os 'pais'
